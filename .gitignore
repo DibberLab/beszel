@@ -6,5 +6,7 @@
 ib_logfile*
 node_modules/
 .DS_Store
+# Ignore Beszel database and temp logs
+beszel_data/data.db
 beszel_data/data.db-shm
 beszel_data/data.db-wal
