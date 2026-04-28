@@ -6,3 +6,5 @@
 ib_logfile*
 node_modules/
 .DS_Store
+beszel_data/data.db-shm
+beszel_data/data.db-wal
